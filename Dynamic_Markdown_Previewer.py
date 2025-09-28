@@ -105,3 +105,4 @@ if any([title, tagline, topic_desc, words_to_be_bold, raw_mission_list]):
         mission = format_list(raw_mission_list)
 
         st.markdown(mission)
+
